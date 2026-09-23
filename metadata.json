@@ -1,0 +1,6 @@
+{
+  "name": "กุ้งน้อยโปรไบโอติก - Kung Noi Bio-Aqua",
+  "description": "ผลิตภัณฑ์น้ำหมักผสมอาหารกุ้งและโปรไบโอติกคัดสรรคุณภาพ เพื่อกุ้งแข็งแรง โตไว น้ำใส ไร้กลิ่น",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
